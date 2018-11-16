@@ -1,1 +1,1 @@
-https://github.com/OsOKreW/OsOKreW/blob/master/bot.py
+git+https://github.com/OsOKreW/OsOKreW/blob/master/bot.py
