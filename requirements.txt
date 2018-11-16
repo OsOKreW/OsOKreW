@@ -1,1 +1,1 @@
-git+https://github.com/OsOKreW/OsOKreW/blob/master/bot.py
+discord.py==0.16.12
