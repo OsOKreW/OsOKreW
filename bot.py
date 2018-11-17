@@ -6,7 +6,7 @@ from discord.ext.commands import Bot
 import asyncio
 import os
 
-bot = commands.Bot(command_prefix='#')
+bot = commands.Bot(command_prefix='.')
 client = discord.Client()
 
 @bot.event
