@@ -7,6 +7,7 @@ import asyncio
 import os
 
 bot = commands.Bot(command_prefix='#')
+client = discord.Client()
 
 @bot.event
 async def on_ready():
